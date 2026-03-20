@@ -382,7 +382,7 @@ The BlackRoad Codex is:
 
 ## 📄 License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+BlackRoad Proprietary License - see [LICENSE](LICENSE) file for details.
 
 ---
 
